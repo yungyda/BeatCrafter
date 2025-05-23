@@ -1,4 +1,4 @@
-// BeatCrafter - Example Code
+
 // Demonstrating skills from Unit 0
 
 // 1. Values, Data Types, and Operations
